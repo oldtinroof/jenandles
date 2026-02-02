@@ -385,6 +385,11 @@ a:hover {
     padding-right: 1rem;
   }
 
+  .section-rsvp .section-content {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   .form-placeholder {
     padding: 2rem 1rem;
   }
